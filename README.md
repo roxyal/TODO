@@ -10,7 +10,7 @@ TO-DO is a task management platform that enables administrators to assign tasks 
   
 # Functionality for Adminstrators
 * Can view / edit / delete the job task or notes of all employees
-* Able to view all the employees information such as (roles, account setting)
+* Able to view / edit / delete all the employees information such as (roles, account setting)
 * Able to create New Employee account
 
 # Framework
