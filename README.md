@@ -1,6 +1,7 @@
 # TODO
 TO-DO is a task management platform that enables administrators to assign tasks to employees. It allows employees to efficiently manage their job tasks and track progress. <br><br>
-<img width="960" alt="todo" src="https://github.com/roxyal/TODO/assets/56731199/36202973-5175-4926-a21a-ef3af2e64fa7">
+<img width="960" alt="todo" src="https://github.com/roxyal/TODO/assets/56731199/841abf14-39de-43df-bff7-f6e47a260a43">
+
 
 # Functionality for Employees
 * Can only view the job task they need to do
